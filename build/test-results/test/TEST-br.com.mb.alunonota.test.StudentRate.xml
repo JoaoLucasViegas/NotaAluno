@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.mb.alunonota.test.StudentRate" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-18T21:19:31" hostname="DESKTOP-DQPH9G9" time="0.033">
+  <properties/>
+  <testcase name="getMediaMTMAndLP()" classname="br.com.mb.alunonota.test.StudentRate" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
